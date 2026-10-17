@@ -1,0 +1,6 @@
+{
+  "name": "โปรแกรมคำนวณขนาดยาเคมีบำบัด & ส่งออก PDF",
+  "description": "โปรแกรมคำนวณขนาดยาเคมีบำบัด ปรับแก้ Actual Dose คำนวณปริมาตรยาและสารน้ำ พร้อมส่งออกเอกสารการสั่งยาเป็น PDF โรงพยาบาลสิชล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
